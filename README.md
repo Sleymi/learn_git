@@ -1,1 +1,1 @@
-this repository is due to learn git
+this repository help me learn git
